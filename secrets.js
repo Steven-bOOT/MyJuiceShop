@@ -1,1 +1,1 @@
-var password = "VerySecret"
+var password = Process.env.secret
